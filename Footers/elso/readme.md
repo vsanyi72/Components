@@ -1,0 +1,1 @@
+Az az elős próba komponensem. Egy footer
